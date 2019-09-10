@@ -14,3 +14,8 @@
 8. Install Anaconda with Python 3.7 
   - Go to the [Anaconda Website](https://www.anaconda.com/distribution/#download-section) and choose a Python 3.7 graphical installer appropriate for your operating system to download.
   - Locate your download and click it to install. 
+
+## Recommended Books
+* [Solving Business Problems using SQL by H. Rahman](https://www.amazon.com/SOLVING-BUSINESS-PROBLEMS-USING-SQL/dp/1795478292/ref=sr_1_1?crid=2T9PFI3PZ5Z8H&keywords=solving+business+problems+using+sql&qid=1568130141&s=gateway&sprefix=solving+busi%2Caps%2C137&sr=8-1)
+* [Python for Data Science by E. Williams](https://www.amazon.com/gp/product/1687159106/ref=ppx_yo_dt_b_asin_title_o01_s00?ie=UTF8&psc=1)
+* [Data Science with Jupyter by P. Gupta](https://www.amazon.com/gp/product/9388511379/ref=ppx_yo_dt_b_asin_image_o00_s01?ie=UTF8&psc=1)
